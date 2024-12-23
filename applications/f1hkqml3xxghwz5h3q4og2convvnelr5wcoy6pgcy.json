@@ -35,12 +35,12 @@
     "Weekly Allocation": "1000TiB"
   },
   "Lifecycle": {
-    "State": "Granted",
-    "Validated At": "2024-06-24 14:07:52.391003277 UTC",
+    "State": "ReadyToSign",
+    "Validated At": "2024-12-23 10:11:59.325443643 UTC",
     "Validated By": "Marshall-btc",
     "Active": true,
-    "Updated At": "2024-09-24 02:13:41.350395561 UTC",
-    "Active Request ID": "9c630950-6054-46c9-952b-7968bf353849",
+    "Updated At": "2024-12-23 10:11:59.325448039 UTC",
+    "Active Request ID": "f7115906-5a26-48a2-b341-0cf17133dc4e",
     "On Chain Address": "f1hkqml3xxghwz5h3q4og2convvnelr5wcoy6pgcy",
     "Multisig Address": "false",
     "edited": false
@@ -109,6 +109,15 @@
           "Message CID": "bafy2bzaceagsnr4oc6vuhnrrtb6whng3vuir5y6m6plzrubi27hs4j53wv36g"
         }
       ]
+    },
+    {
+      "ID": "f7115906-5a26-48a2-b341-0cf17133dc4e",
+      "Request Type": "Refill",
+      "Created At": "2024-12-23 10:11:59.325459551 UTC",
+      "Updated At": "2024-12-23 10:11:59.325460424 UTC",
+      "Active": true,
+      "Allocation Amount": "1280TiB",
+      "Signers": []
     }
   ]
 }
