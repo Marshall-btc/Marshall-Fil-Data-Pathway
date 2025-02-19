@@ -38,9 +38,9 @@
     "State": "Granted",
     "Validated At": "2024-12-23 10:14:32.932970307 UTC",
     "Validated By": "Marshall-btc",
-    "Active": true,
-    "Updated At": "2024-12-23 10:14:32.932965931 UTC",
-    "Active Request ID": "f7115906-5a26-48a2-b341-0cf17133dc4e",
+    "Active": false,
+    "Updated At": "2025-02-19 15:00:20.983111497 UTC",
+    "Active Request ID": "",
     "On Chain Address": "f1hkqml3xxghwz5h3q4og2convvnelr5wcoy6pgcy",
     "Multisig Address": "false",
     "edited": false
