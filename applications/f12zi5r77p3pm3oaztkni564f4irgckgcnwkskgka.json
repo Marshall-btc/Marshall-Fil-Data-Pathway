@@ -12,9 +12,9 @@
     "Role": "Data Preparer"
   },
   "Project": {
-    "Brief history of your project and organization": "The United States NASA Landsat program, since July 23, 1972, has launched eight satellites (the sixth failed). Currently, Landsat 1-4 have all failed, and Landsat 5 is still in overdue operation (from March 1, 1984 to the present). Landsat 7 was launched on April 15, 1999 Landsat 8 was launched on February 11, 2013 and began acquiring images after 100 days of test operations.\r\n\r\nLandsat remote sensing satellite data is a very important source of remote sensing data in the field of remote sensing, with good data continuity, moderate resolution, high data quality and long time series, which has been widely used in many research fields at home and abroad.\r\n\r\nThe most widely used Landsat series satellites are Landsat 5, Landsat 7 and Landsat 8, and the sensors they carry are mainly MSS, TM, ETM+ and OLI.",
+    "Brief history of your project and organization": "The United States NASA Landsat program, since July 23, 1972, has launched eight satellites (the sixth failed). Currently, Landsat 1-4 have all failed, and Landsat 5 is still in overdue operation (from March 1, 1984 to the present). Landsat 7 was launched on April 15, 1999 Landsat 8 was launched on February 11, 2013 and began acquiring images after 100 days of test operations.\n\nLandsat remote sensing satellite data is a very important source of remote sensing data in the field of remote sensing, with good data continuity, moderate resolution, high data quality and long time series, which has been widely used in many research fields at home and abroad.\n\nThe most widely used Landsat series satellites are Landsat 5, Landsat 7 and Landsat 8, and the sensors they carry are mainly MSS, TM, ETM+ and OLI.",
     "Is this project associated with other projects/ecosystem stakeholders?": "No",
-    "Describe the data being stored onto Filecoin": "Landsat remote sensing satellite data is a very important source of remote sensing data in the field of remote sensing, with good data continuity, moderate resolution, high data quality and long time series, which has been widely used in many research fields at home and abroad.\r\n\r\nThe most widely used Landsat series satellites are Landsat 5, Landsat 7 and Landsat 8, and the sensors they carry are mainly MSS, TM, ETM+ and OLI.",
+    "Describe the data being stored onto Filecoin": "Landsat remote sensing satellite data is a very important source of remote sensing data in the field of remote sensing, with good data continuity, moderate resolution, high data quality and long time series, which has been widely used in many research fields at home and abroad.\n\nThe most widely used Landsat series satellites are Landsat 5, Landsat 7 and Landsat 8, and the sensors they carry are mainly MSS, TM, ETM+ and OLI.",
     "Where was the data currently stored in this dataset sourced from": "Other",
     "How do you plan to prepare the dataset": "No response",
     "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://www.gscloud.cn/sources/index?pid=263&ptitle=LANDSAT%E7%B3%BB%E5%88%97%E6%95%B0%E6%8D%AE&rootid=1",
@@ -23,7 +23,7 @@
     "For how long do you plan to keep this dataset stored on Filecoin": "1.5 to 2 years",
     "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America, South America, Europe, Australia (continent)",
     "How will you be distributing your data to storage providers": "HTTP or FTP server, Shipping hard drives",
-    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03074586   \r\nf03074587   \r\nf03000070\r\nf03074583  \r\nf03074589   \r\nf03074592",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "- f03091739  \n- f03144037  \n- f03151449  \n- f03151456  \n- f03178077  \n- f03178144  \n- f03179555  \n- f01083939  \n- f03214937  \n- f03229932  \n- f03300963  \n- f01083949  \n- f01106668  \n- f01315096  \n- f01518369  \n- f01889668  \n- f02199999  \n- f03055005  \n- f03055018  \n- f03055029  \n- f03179570  \n- f03179572  \n- f0870558",
     "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
   },
   "Datacap": {
@@ -43,7 +43,7 @@
     "Active Request ID": "8706265e-932d-4d0a-a769-175f07cf02f7",
     "On Chain Address": "f12zi5r77p3pm3oaztkni564f4irgckgcnwkskgka",
     "Multisig Address": "false",
-    "edited": false
+    "edited": true
   },
   "Allocation Requests": [
     {
