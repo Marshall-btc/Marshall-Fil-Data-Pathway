@@ -36,11 +36,11 @@
   },
   "Lifecycle": {
     "State": "Granted",
-    "Validated At": "2025-02-19 12:16:11.981575918 UTC",
+    "Validated At": "2025-04-09 15:12:34.392216248 UTC",
     "Validated By": "Marshall-btc",
     "Active": true,
-    "Updated At": "2025-02-19 12:16:11.981571287 UTC",
-    "Active Request ID": "8706265e-932d-4d0a-a769-175f07cf02f7",
+    "Updated At": "2025-04-09 15:12:34.392212855 UTC",
+    "Active Request ID": "c7884ce2-47b1-4579-b013-34fc9916659b",
     "On Chain Address": "f12zi5r77p3pm3oaztkni564f4irgckgcnwkskgka",
     "Multisig Address": "false",
     "edited": false
@@ -123,6 +123,22 @@
           "Signing Address": "f16b6a4s63opnunpag3llqg77pfl4pyixwb657iza",
           "Created At": "2025-02-19 12:16:07.261000000 UTC",
           "Message CID": "bafy2bzaceclvf6n7357lj6vxs6ngq6izz4xf2qmspvcqyyc75ojgr4s4d6z6s"
+        }
+      ]
+    },
+    {
+      "ID": "c7884ce2-47b1-4579-b013-34fc9916659b",
+      "Request Type": "Refill",
+      "Created At": "2025-04-09 15:10:34.375735254 UTC",
+      "Updated At": "2025-04-09 15:10:34.375736419 UTC",
+      "Active": false,
+      "Allocation Amount": "2251799813685248B",
+      "Signers": [
+        {
+          "Github Username": "Marshall-btc",
+          "Signing Address": "f16b6a4s63opnunpag3llqg77pfl4pyixwb657iza",
+          "Created At": "2025-04-09 15:12:31.878000000 UTC",
+          "Message CID": "bafy2bzaced52urv5d3t5y4faj62ooktxtucdswhfy5vjlr7tgwijg6zlfbwly"
         }
       ]
     }
