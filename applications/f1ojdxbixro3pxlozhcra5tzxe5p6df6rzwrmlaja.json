@@ -35,7 +35,7 @@
     "Weekly Allocation": "1000TiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "ChangesRequested",
     "Validated At": "2024-12-23 12:30:36.296672741 UTC",
     "Validated By": "Marshall-btc",
     "Active": true,
@@ -43,7 +43,7 @@
     "Active Request ID": "6af89af0-e9c1-4cc4-b777-dc2694b190bb",
     "On Chain Address": "f1ojdxbixro3pxlozhcra5tzxe5p6df6rzwrmlaja",
     "Multisig Address": "false",
-    "edited": true
+    "edited": false
   },
   "Allocation Requests": [
     {
