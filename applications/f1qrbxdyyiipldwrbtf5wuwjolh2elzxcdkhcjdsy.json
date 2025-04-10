@@ -16,14 +16,14 @@
     "Is this project associated with other projects/ecosystem stakeholders?": "No",
     "Describe the data being stored onto Filecoin": "Promotional video and advertising video materials",
     "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
-    "How do you plan to prepare the dataset": "",
+    "How do you plan to prepare the dataset": "Prepping data for Filecoin is straightforward: First, pack your data into a CAR file (a format built for IPLD), then generate its Piece CID and CAR file CID—these act like unique fingerprints. Next, use lotus client deal to propose a storage deal, splitting the CAR file into \"pieces\" (properly sized chunks, aligned to powers of two). Once a miner accepts, the data gets transferred via P2P, and the deal finalizes on-chain.\n\nTL;DR: Pack → hash → split → propose → transfer. Keep an eye on the CommP (data’s unique ID) and Deal ID, or you might lose track.",
     "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "http://cnqianjing.cn/case/",
     "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
     "What is the expected retrieval frequency for this data": "Sporadic",
     "For how long do you plan to keep this dataset stored on Filecoin": "More than 3 years",
     "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America, Europe, Australia (continent)",
     "How will you be distributing your data to storage providers": "HTTP or FTP server, Shipping hard drives",
-    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "To be listed later",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03233304\nf02924003\nf02893152\nf02866013\nf02869125\nf02916974\nf02952530\nf03233356",
     "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
   },
   "Datacap": {
