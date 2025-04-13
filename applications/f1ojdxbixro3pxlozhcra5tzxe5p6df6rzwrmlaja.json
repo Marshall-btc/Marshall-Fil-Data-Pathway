@@ -23,7 +23,7 @@
     "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
     "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, Africa, North America, South America, Europe, Australia (continent), Antarctica",
     "How will you be distributing your data to storage providers": "HTTP or FTP server, Shipping hard drives",
-    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "- f01889668  \n- f03055005  \n- f03055018  \n- f03055029  \n- f03144037  \n- f03148356  \n- f03156617  \n- f03214937  \n- f03229932  \n- f03179555  \n- f03179570  \n- f03179572  \n- f03188440  \n- f03190614  \n- f03190616  \n- f01083939  \n- f01083949  \n- f01106668  \n- f01315096  \n- f01518369  \n- f03229933  \n- f03300963  \n- f0870558",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "- f01889668  \n- f03055005  \n- f03055018  \n- f03055029  \n- f03144037  \n- f03148356  \n- f03156617  \n- f03214937  \n- f03229932  \n- f03179555  \n- f03179570  \n- f03179572  \n- f03188440  \n- f03190614  \n- f03190616  \n- f01083939  \n- f01083949  \n- f01106668  \n- f01315096  \n- f01518369  \n- f03229933  \n- f03300963  \n- f0870558\nf01083931\nf01081394",
     "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
   },
   "Datacap": {
@@ -43,7 +43,7 @@
     "Active Request ID": "7b0d5471-761f-4faf-b24f-08b896b16d67",
     "On Chain Address": "f1ojdxbixro3pxlozhcra5tzxe5p6df6rzwrmlaja",
     "Multisig Address": "false",
-    "edited": false
+    "edited": true
   },
   "Allocation Requests": [
     {
