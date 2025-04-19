@@ -35,7 +35,7 @@
     "Weekly Allocation": "1000TiB"
   },
   "Lifecycle": {
-    "State": "ChangesRequested",
+    "State": "Granted",
     "Validated At": "2025-04-09 15:12:34.392216248 UTC",
     "Validated By": "Marshall-btc",
     "Active": true,
