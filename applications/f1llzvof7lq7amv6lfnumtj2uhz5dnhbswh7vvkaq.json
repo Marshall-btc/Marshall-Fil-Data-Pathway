@@ -35,11 +35,11 @@
     "Weekly Allocation": "1000TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2025-06-06 05:59:57.326779230 UTC",
+    "State": "Granted",
+    "Validated At": "2025-06-06 06:01:40.048445977 UTC",
     "Validated By": "Marshall-btc",
     "Active": true,
-    "Updated At": "2025-06-06 05:59:57.326782742 UTC",
+    "Updated At": "2025-06-06 06:01:40.048441719 UTC",
     "Active Request ID": "1956ed12-6201-48ac-8a70-4e90526331d6",
     "On Chain Address": "f1llzvof7lq7amv6lfnumtj2uhz5dnhbswh7vvkaq",
     "Multisig Address": "false",
@@ -163,9 +163,16 @@
       "Request Type": "Refill",
       "Created At": "2025-06-06 05:59:57.326801881 UTC",
       "Updated At": "2025-06-06 05:59:57.326802586 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "2251799813685248B",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "Marshall-btc",
+          "Signing Address": "f16b6a4s63opnunpag3llqg77pfl4pyixwb657iza",
+          "Created At": "2025-06-06 06:01:36.730000000 UTC",
+          "Message CID": "bafy2bzaceditq2t6gmbc7ahdld2j3jdbfqljvtx4lldy2un4x2dlb6ueoj732"
+        }
+      ]
     }
   ]
 }
