@@ -16,7 +16,7 @@
     "Is this project associated with other projects/ecosystem stakeholders?": "No",
     "Describe the data being stored onto Filecoin": "Videos of some medical resources, including teaching videos, conference videos, convention videos, medical research videos, etc.",
     "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
-    "How do you plan to prepare the dataset": "All tools inside singularity，Packing the car file, as well as calling boost to send the deal",
+    "How do you plan to prepare the dataset": "All tools inside singularity，Packing the car file, as well as calling boost to send the deal\n\n#Make car\nsingularity prep create MyData ~/dataset/folder ~/outDir \n\n#View Status\nsingularity prep list\nsingularity prep status MyData\n\n# singularity repl start -m <n> <dataset_id> <storage_providers> <client_address>\nsingularity repl start -m 10 MyData f01111 f1...",
     "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://www.bilibili.com/video/BV1my421q7ro/?vd_source=faa5771f7fe05b875ad096b1fa5b09ea\n\n类似于这里面的视频",
     "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
     "What is the expected retrieval frequency for this data": "Monthly",
