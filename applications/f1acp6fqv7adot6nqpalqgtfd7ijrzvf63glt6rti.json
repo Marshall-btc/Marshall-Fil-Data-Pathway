@@ -35,15 +35,25 @@
     "Weekly Allocation": "2PiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2025-06-10 14:58:15.420220758 UTC",
+    "Validated By": "Marshall-btc",
     "Active": true,
-    "Updated At": "2025-06-10 03:32:17.388636876 UTC",
-    "Active Request ID": "",
+    "Updated At": "2025-06-10 14:58:15.420224530 UTC",
+    "Active Request ID": "deaef8f9-8c3f-4738-9ffc-060fc08dd0e3",
     "On Chain Address": "f1acp6fqv7adot6nqpalqgtfd7ijrzvf63glt6rti",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "deaef8f9-8c3f-4738-9ffc-060fc08dd0e3",
+      "Request Type": "First",
+      "Created At": "2025-06-10 14:58:15.420226210 UTC",
+      "Updated At": "2025-06-10 14:58:15.420227349 UTC",
+      "Active": true,
+      "Allocation Amount": "281474976710656 B",
+      "Signers": []
+    }
+  ]
 }
