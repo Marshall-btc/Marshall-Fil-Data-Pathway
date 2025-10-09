@@ -35,7 +35,7 @@
     "Weekly Allocation": "1000TiB"
   },
   "Lifecycle": {
-    "State": "TotalDatacapReached",
+    "State": "ChangesRequested",
     "Validated At": "2025-06-16 14:10:04.677120678 UTC",
     "Validated By": "Marshall-btc",
     "Active": false,
@@ -43,7 +43,7 @@
     "Active Request ID": null,
     "On Chain Address": "f12zi5r77p3pm3oaztkni564f4irgckgcnwkskgka",
     "Multisig Address": "false",
-    "edited": true
+    "edited": false
   },
   "Allocation Requests": [
     {
