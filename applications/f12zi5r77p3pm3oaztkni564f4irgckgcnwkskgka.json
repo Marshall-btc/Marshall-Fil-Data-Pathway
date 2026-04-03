@@ -23,19 +23,19 @@
     "For how long do you plan to keep this dataset stored on Filecoin": "1.5 to 2 years",
     "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America, South America, Europe, Australia (continent)",
     "How will you be distributing your data to storage providers": "HTTP or FTP server, Shipping hard drives",
-    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "- f03091739  \n- f03144037  \n- f03151449  \n- f03151456  \n- f03178077  \n- f03178144  \n- f03179555  \n- f01083939  \n- f03214937  \n- f03229932  \n- f03300963  \n- f01083949  \n- f01106668  \n- f01315096  \n- f01518369  \n- f01889668  \n- f02199999  \n- f03055005  \n- f03055018  \n- f03055029  \n- f03179570  \n- f03179572  \n- f0870558\nf01083931\nf01081394",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f01081394\nf01083939\nf01083949\nf01106668\nf01315096\nf01518369\nf01889668\nf02199999\nf03055005\nf03055018\nf03055029\nf03091739\nf03144037\nf03151449\nf03151456\nf03178077\nf03178144\nf03179555\nf03179570\nf03179572\nf03214937\nf03229932\nf03300963\nf0870558",
     "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
   },
   "Datacap": {
     "Type": "ldn-v3",
     "Data Type": "Slingshot",
-    "Total Requested Amount": "9PiB",
-    "Single Size Dataset": "877TiB",
+    "Total Requested Amount": "14PiB",
+    "Single Size Dataset": "1400TiB",
     "Replicas": 10,
     "Weekly Allocation": "1000TiB"
   },
   "Lifecycle": {
-    "State": "TotalDatacapReached",
+    "State": "ChangesRequested",
     "Validated At": "2025-06-16 14:10:04.677120678 UTC",
     "Validated By": "Marshall-btc",
     "Active": false,
